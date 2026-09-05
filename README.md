@@ -14,4 +14,4 @@ Esse projeto tem o intuito de ser um ambiente descentralizado, no qual a própri
 
 ### Wireframe
 
-![image-wireframe](images/wireframe.png)
+![image-wireframe](public/images/wireframe.png)
