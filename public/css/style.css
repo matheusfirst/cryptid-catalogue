@@ -64,7 +64,7 @@ nav ul
 {
     list-style-type: none;
     
-    margin-top: 100px;
+    margin-top: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -100,7 +100,7 @@ nav ul li a:hover
 
 #search
 {
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 #search h2
@@ -108,8 +108,7 @@ nav ul li a:hover
     text-align: center;
     font-family: "Host Grotesk", sans-serif;
     font-size: 80px;
-    color: #ffffff;
-    opacity: 50%;
+    color: #c3f0cb;
 }
 
 #search form
@@ -118,3 +117,97 @@ nav ul li a:hover
     justify-content: center;
     align-items: center;
 }
+
+#types-content
+{
+    margin-top: 400px; 
+}
+
+#types-content h2
+{
+    text-align: center;
+    font-family: "Host Grotesk", sans-serif;
+    font-size: 80px;
+    color: #c3f0cb;
+}
+
+.cryptid-types
+{
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    margin: 30px;
+}
+
+.cryptid-types h3
+{
+    font-size: 50px;
+    text-align: center;
+    font-family: "Alata", sans-serif;
+    color:#e0e0e0;
+}  
+
+.cryptid-types p
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    visibility: hidden;
+    opacity: 0;
+    color: white;
+    font-family: "Alata", sans-serif;
+
+    margin-top: 250px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+.cryptid-types:hover p
+{
+    visibility: visible;
+    opacity: 1;
+
+    transition: opacity .2s, visibility .2s;
+}
+
+#region-content
+{
+    margin-top: 100px; 
+}
+
+#region-content h2
+{
+    text-align: center;
+    font-family: "Host Grotesk", sans-serif;
+    font-size: 80px;
+    color: #c3f0cb;
+}
+
+.world-region
+{
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    margin: 30px;
+}
+
+.world-region h3
+{
+    font-size: 50px;
+    text-align: center;
+    font-family: "Alata", sans-serif;
+    color:#e0e0e0;
+}
+
+footer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Alata", sans-serif;
+    color: white;
+    margin-top: 200px;
+}
+
