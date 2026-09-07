@@ -22,4 +22,4 @@ Esse projeto tem o intuito de ser um ambiente descentralizado, no qual a própri
 
 ### Página Criada V2    
 
-![image-webpage](public/images/pagina-v1.png)
+![image-webpage](public/images/pagina-v2.png)
