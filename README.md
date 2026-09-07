@@ -16,6 +16,10 @@ Esse projeto tem o intuito de ser um ambiente descentralizado, no qual a própri
 
 ![image-wireframe](public/images/wireframe.png)
 
-### Página Criada
+### Página Criada V1
 
-![image-webpage](public/images/pagina.png)
+![image-webpage](public/images/pagina-v1.png)
+
+### Página Criada V2    
+
+![image-webpage](public/images/pagina-v1.png)
